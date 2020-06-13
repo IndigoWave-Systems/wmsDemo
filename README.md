@@ -5,5 +5,5 @@ This is a simple demo illustrating how to use WMS with the Esri JavaScript API. 
 
 ![alt text](https://github.com/alilje/wmsDemo/blob/master/Screen%20Shot%202020-06-13%20at%2011.46.57%20AM.png "Simple Geoserver Layer over SceneView")
 
-
+I will be adding more examples of useing Esri's API with Open Source technologies here in the future!
 
